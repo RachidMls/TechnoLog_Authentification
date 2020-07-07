@@ -1,0 +1,25 @@
+{
+  "name": "technolog_authentification",
+  "version": "1.0.0",
+  "description": "Rattrapage technolog 2020",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RachidMls/TechnoLog_Authentification.git"
+  },
+  "keywords": [
+    "git;",
+    "nodejs;",
+    "postman;",
+    "express"
+  ],
+  "author": "Rachid ELARGABI",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RachidMls/TechnoLog_Authentification/issues"
+  },
+  "homepage": "https://github.com/RachidMls/TechnoLog_Authentification#readme"
+}
